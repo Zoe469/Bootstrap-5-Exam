@@ -1,0 +1,22 @@
+html,
+body{
+      height:100%;
+      font-size: 1rem;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+gradient{background: rgb(231,27,220);
+    background: radial-gradient(circle, rgba(231,27,220,1) 46%, rgba(57,224,191,1) 77%, rgba(15,26,222,0.9528186274509804) 97%);
+}
+
