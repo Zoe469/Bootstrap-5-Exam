@@ -15,7 +15,9 @@ body{
 
 
 
-gradient {background: rgb(231,27,220);
-    background: radial-gradient(circle, rgba(231,27,220,1) 46%, rgba(57,224,191,1) 77%, rgba(15,26,222,0.9528186274509804) 97%);
-}
+Gradient{
+    background: rgb(231,27,27);
+background: linear-gradient(90deg, rgba(231,27,27,1) 1%, rgba(229,202,68,1) 22%, rgba(187,231,27,1) 57%, rgba(57,224,191,1) 77%, rgba(15,26,222,0.9528186274509804) 97%);
 
+
+}
