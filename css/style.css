@@ -2,6 +2,7 @@ html,
 body{
       height:100%;
       font-size: 1rem;
+      font-family: 'Roboto Slab', serif;
 }
 
 
@@ -27,6 +28,8 @@ body{
 .page-header{
   margin-top: 4rem;
    font-size: 1.25rem;
+   color: black;
+
 }
 
 
@@ -34,4 +37,11 @@ body{
       padding-left: 2rem;
      list-style-type: none;
 
+}
+
+
+.img{
+
+      width: 40;
+      height: 40;
 }
