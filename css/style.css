@@ -18,9 +18,8 @@ body{
 
 .gradient {
    
-      background: rgb(231,27,27);
-      background: linear-gradient(90deg, rgba(231,27,27,1) 1%, rgba(229,202,68,1) 22%, rgba(187,231,27,1) 57%, rgba(57,224,191,1) 77%, rgba(15,26,222,0.9528186274509804) 97%);
-
+      background: rgb(147,31,195);
+      background: linear-gradient(90deg, rgba(147,31,195,1) 0%, rgba(29,253,232,1) 50%, rgba(252,225,69,1) 100%);
 
 }
 
