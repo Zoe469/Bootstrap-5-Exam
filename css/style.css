@@ -17,9 +17,7 @@ body{
 
 
 .gradient {
-   
-      background: rgb(147,31,195);
-      background: linear-gradient(90deg, rgba(147,31,195,1) 0%, rgba(29,253,232,1) 50%, rgba(252,225,69,1) 100%);
+      background: linear-gradient(90deg, rgba(31,195,133,0.8463760504201681) 0%, rgba(29,199,253,0.9192051820728291) 50%, rgba(69,242,252,0.9640231092436975) 100%);
 
 }
 
@@ -40,3 +38,22 @@ body{
 
 
 
+.feature{
+
+color: rgb(0, 0, 0); 
+}
+
+.feature ul {
+
+padding-left: 2rem;
+list-style-type:none;
+}
+
+
+.feature ul li{
+
+      padding-left: 2rem;
+    background-image: url(/img/check.svg);
+    background-repeat: no repeat;
+    line-height: 1.5rem;
+}
