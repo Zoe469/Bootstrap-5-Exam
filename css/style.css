@@ -76,3 +76,8 @@ list-style-type:none;
       background-color: whitesmoke;
 
 }
+
+.gallery img{
+border-radius: 5%;
+
+}
